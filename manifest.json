@@ -1,0 +1,23 @@
+
+{
+  "name": "Built by Sadeem",
+  "short_name": "Sadeem",
+  "description": "An AI-powered tool to convert scripts into a sequence of images. Upload a script, define a style, and watch as Gemini generates descriptive prompts and then creates stunning visuals for each scene.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/7gB1Pz2/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/JqK7kC7/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
